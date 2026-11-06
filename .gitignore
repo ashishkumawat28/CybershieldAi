@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+.ipynb_checkpoints/
+
+# React
+node_modules/
+dist/
+
+# ML
+*.pkl
+*.joblib
+*.h5
+*.pt
+
+# IDE
+.vscode/
