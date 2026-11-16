@@ -1,0 +1,10 @@
+{
+    "random_forest": {
+        "threshold": 0.8295323366171861,
+        "selection_metric": "Maximum validation attack F1"
+    },
+    "xgboost": {
+        "threshold": 0.9696437120437622,
+        "selection_metric": "Maximum validation attack F1"
+    }
+}

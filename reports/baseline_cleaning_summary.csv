@@ -1,0 +1,7 @@
+Metric,Count
+Original records,2830743
+Quarantined conflict records,7020
+Records after conflict exclusion,2823723
+Exact duplicate rows removed,302757
+Final unique baseline records,2520966
+Original feature groups in conflict report,698

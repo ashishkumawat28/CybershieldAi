@@ -1,0 +1,51 @@
+{
+    "dataset": "CICIDS2017",
+    "test_records": 578418,
+    "benign_class_id": 0,
+    "binary_classes": {
+        "0": "BENIGN",
+        "1": "ATTACK"
+    },
+    "models": [
+        {
+            "Model": "Random Forest",
+            "Binary_ROC_AUC": 0.999821696220166,
+            "Binary_Average_Precision": 0.9991804057675205,
+            "Default_Threshold": 0.5,
+            "Accuracy": 0.9948566607539876,
+            "Attack_Precision": 0.9768418573615418,
+            "Attack_Recall": 0.9997991322513258,
+            "Attack_F1": 0.9881871786217713,
+            "FPR": 0.006498398530260509,
+            "FNR": 0.00020086774867427286,
+            "TN": 451008,
+            "FP": 2950,
+            "FN": 25,
+            "TP": 124435,
+            "Best_F1_Threshold": 0.8,
+            "Best_Threshold_F1": 0.9974493274405846,
+            "Inference_Time_Seconds": 5.894539100001566,
+            "Throughput_Records_Per_Second": 98127.77389157472
+        },
+        {
+            "Model": "XGBoost",
+            "Binary_ROC_AUC": 0.999945028950595,
+            "Binary_Average_Precision": 0.9997710749979987,
+            "Default_Threshold": 0.5,
+            "Accuracy": 0.9989281108125957,
+            "Attack_Precision": 0.9951302595595644,
+            "Attack_Recall": 0.9999116181905833,
+            "Attack_F1": 0.9975152093235758,
+            "FPR": 0.0013415337982808982,
+            "FNR": 8.838180941668006e-05,
+            "TN": 453349,
+            "FP": 609,
+            "FN": 11,
+            "TP": 124449,
+            "Best_F1_Threshold": 0.95,
+            "Best_Threshold_F1": 0.9982550373261556,
+            "Inference_Time_Seconds": 13.3504588999931,
+            "Throughput_Records_Per_Second": 43325.70171054562
+        }
+    ]
+}

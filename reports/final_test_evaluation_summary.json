@@ -1,0 +1,49 @@
+{
+    "dataset": "CICIDS2017 untouched test dataset",
+    "test_records": 578418,
+    "threshold_source": "Separate validation dataset",
+    "results": [
+        {
+            "model": "Random Forest",
+            "test_records": 578418,
+            "calibrated_threshold": 0.8295323366171861,
+            "multiclass_accuracy": 0.9947909643199209,
+            "multiclass_macro_f1": 0.792443349665053,
+            "multiclass_weighted_f1": 0.9960975691448285,
+            "binary_accuracy": 0.9989557724690449,
+            "attack_precision": 0.9965521665223388,
+            "attack_recall": 0.9986019604692271,
+            "attack_f1": 0.9975760105307092,
+            "binary_roc_auc": 0.9998497924481701,
+            "binary_average_precision": 0.9994072496463542,
+            "false_positive_rate": 0.000947224192546447,
+            "false_negative_rate": 0.001398039530772939,
+            "true_negative": 453528,
+            "false_positive": 430,
+            "false_negative": 174,
+            "true_positive": 124286,
+            "inference_time_seconds": 4.106684684753418
+        },
+        {
+            "model": "XGBoost",
+            "test_records": 578418,
+            "calibrated_threshold": 0.9696437120437622,
+            "multiclass_accuracy": 0.9986169171775429,
+            "multiclass_macro_f1": 0.8656997457522307,
+            "multiclass_weighted_f1": 0.9987015711066113,
+            "binary_accuracy": 0.999298085467603,
+            "attack_precision": 0.9970749455058341,
+            "attack_recall": 0.9996705768921742,
+            "attack_f1": 0.9983710741281636,
+            "binary_roc_auc": 0.9999618558978058,
+            "binary_average_precision": 0.9998434515500771,
+            "false_positive_rate": 0.0008040391401847748,
+            "false_negative_rate": 0.0003294231078258075,
+            "true_negative": 453593,
+            "false_positive": 365,
+            "false_negative": 41,
+            "true_positive": 124419,
+            "inference_time_seconds": 10.344060182571411
+        }
+    ]
+}

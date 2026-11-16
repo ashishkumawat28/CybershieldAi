@@ -1,0 +1,79 @@
+Feature,Total_Rows,Missing_Values,Missing_Percentage,Distinct_Values,Minimum,Maximum,Is_Constant,Split
+Destination Port,578418,0,0.0,33313,0.0,65533.0,False,Test
+Flow Duration,578418,0,0.0,256776,-13.0,119999970.0,False,Test
+Total Fwd Packets,578418,0,0.0,691,1.0,219759.0,False,Test
+Total Backward Packets,578418,0,0.0,872,0.0,291922.0,False,Test
+Total Length of Fwd Packets,578418,0,0.0,9106,0.0,2321478.0,False,Test
+Total Length of Bwd Packets,578418,0,0.0,24355,0.0,655453030.0,False,Test
+Fwd Packet Length Max,578418,0,0.0,3678,0.0,23360.0,False,Test
+Fwd Packet Length Min,578418,0,0.0,229,0.0,2325.0,False,Test
+Fwd Packet Length Mean,578418,0,0.0,35286,0.0,4714.37931,False,Test
+Fwd Packet Length Std,578418,0,0.0,66367,0.0,7125.5968458437,False,Test
+Bwd Packet Length Max,578418,0,0.0,3924,0.0,17376.0,False,Test
+Bwd Packet Length Min,578418,0,0.0,453,0.0,2896.0,False,Test
+Bwd Packet Length Mean,578418,0,0.0,45970,0.0,3884.924556,False,Test
+Bwd Packet Length Std,578418,0,0.0,63052,0.0,6715.738331,False,Test
+Flow Bytes/s,578418,375,0.064832,347081,-193000000.0,2071000000.0,False,Test
+Flow Packets/s,578418,375,0.064832,288458,-2000000.0,4000000.0,False,Test
+Flow IAT Mean,578418,0,0.0,274540,-13.0,120000000.0,False,Test
+Flow IAT Std,578418,0,0.0,229564,0.0,84800000.0,False,Test
+Flow IAT Max,578418,0,0.0,167546,-13.0,120000000.0,False,Test
+Flow IAT Min,578418,0,0.0,46053,-13.0,120000000.0,False,Test
+Fwd IAT Total,578418,0,0.0,119740,0.0,120000000.0,False,Test
+Fwd IAT Mean,578418,0,0.0,164764,0.0,120000000.0,False,Test
+Fwd IAT Std,578418,0,0.0,148458,0.0,83400000.0,False,Test
+Fwd IAT Max,578418,0,0.0,114776,0.0,120000000.0,False,Test
+Fwd IAT Min,578418,0,0.0,35148,-1.0,120000000.0,False,Test
+Bwd IAT Total,578418,0,0.0,104631,0.0,120000000.0,False,Test
+Bwd IAT Mean,578418,0,0.0,148231,0.0,120000000.0,False,Test
+Bwd IAT Std,578418,0,0.0,143050,0.0,82600000.0,False,Test
+Bwd IAT Max,578418,0,0.0,101412,0.0,120000000.0,False,Test
+Bwd IAT Min,578418,0,0.0,17937,0.0,120000000.0,False,Test
+Fwd PSH Flags,578418,0,0.0,2,0.0,1.0,False,Test
+Bwd PSH Flags,578418,0,0.0,1,0.0,0.0,True,Test
+Fwd URG Flags,578418,0,0.0,2,0.0,1.0,False,Test
+Bwd URG Flags,578418,0,0.0,1,0.0,0.0,True,Test
+Fwd Header Length,578418,0,0.0,1771,-32212234632.0,4480016.0,False,Test
+Bwd Header Length,578418,0,0.0,1952,-1073741320.0,5838440.0,False,Test
+Fwd Packets/s,578418,0,0.0,286074,0.0,3000000.0,False,Test
+Bwd Packets/s,578418,0,0.0,259105,0.0,2000000.0,False,Test
+Min Packet Length,578418,0,0.0,170,0.0,1448.0,False,Test
+Max Packet Length,578418,0,0.0,4471,0.0,23360.0,False,Test
+Packet Length Mean,578418,0,0.0,65695,0.0,2920.0,False,Test
+Packet Length Std,578418,0,0.0,105499,0.0,4731.522394,False,Test
+Packet Length Variance,578418,0,0.0,103973,0.0,22400000.0,False,Test
+FIN Flag Count,578418,0,0.0,2,0.0,1.0,False,Test
+SYN Flag Count,578418,0,0.0,2,0.0,1.0,False,Test
+RST Flag Count,578418,0,0.0,2,0.0,1.0,False,Test
+PSH Flag Count,578418,0,0.0,2,0.0,1.0,False,Test
+ACK Flag Count,578418,0,0.0,2,0.0,1.0,False,Test
+URG Flag Count,578418,0,0.0,2,0.0,1.0,False,Test
+CWE Flag Count,578418,0,0.0,2,0.0,1.0,False,Test
+ECE Flag Count,578418,0,0.0,2,0.0,1.0,False,Test
+Down/Up Ratio,578418,0,0.0,17,0.0,156.0,False,Test
+Average Packet Size,578418,0,0.0,63990,0.0,3337.142857,False,Test
+Avg Fwd Segment Size,578418,0,0.0,35286,0.0,4714.37931,False,Test
+Avg Bwd Segment Size,578418,0,0.0,45969,0.0,3884.924556,False,Test
+Fwd Header Length.1,578418,0,0.0,1771,-32212234632.0,4480016.0,False,Test
+Fwd Avg Bytes/Bulk,578418,0,0.0,1,0.0,0.0,True,Test
+Fwd Avg Packets/Bulk,578418,0,0.0,1,0.0,0.0,True,Test
+Fwd Avg Bulk Rate,578418,0,0.0,1,0.0,0.0,True,Test
+Bwd Avg Bytes/Bulk,578418,0,0.0,1,0.0,0.0,True,Test
+Bwd Avg Packets/Bulk,578418,0,0.0,1,0.0,0.0,True,Test
+Bwd Avg Bulk Rate,578418,0,0.0,1,0.0,0.0,True,Test
+Subflow Fwd Packets,578418,0,0.0,691,1.0,219759.0,False,Test
+Subflow Fwd Bytes,578418,0,0.0,9106,0.0,2321478.0,False,Test
+Subflow Bwd Packets,578418,0,0.0,872,0.0,291922.0,False,Test
+Subflow Bwd Bytes,578418,0,0.0,24358,0.0,655453030.0,False,Test
+Init_Win_bytes_forward,578418,0,0.0,6277,-1.0,65535.0,False,Test
+Init_Win_bytes_backward,578418,0,0.0,6375,-1.0,65535.0,False,Test
+act_data_pkt_fwd,578418,0,0.0,545,0.0,213557.0,False,Test
+min_seg_size_forward,578418,0,0.0,24,-536870660.0,126.0,False,Test
+Active Mean,578418,0,0.0,75036,0.0,106000000.0,False,Test
+Active Std,578418,0,0.0,41116,0.0,70500000.0,False,Test
+Active Max,578418,0,0.0,73185,0.0,106000000.0,False,Test
+Active Min,578418,0,0.0,52281,0.0,106000000.0,False,Test
+Idle Mean,578418,0,0.0,47032,0.0,120000000.0,False,Test
+Idle Std,578418,0,0.0,40294,0.0,75300000.0,False,Test
+Idle Max,578418,0,0.0,34433,0.0,120000000.0,False,Test
+Idle Min,578418,0,0.0,51871,0.0,120000000.0,False,Test

@@ -1,0 +1,11 @@
+{
+    "training_records": 414201,
+    "feature_count": 70,
+    "class_count": 15,
+    "max_per_class": 100000,
+    "random_state": 42,
+    "random_forest_training_minutes": 0.514,
+    "xgboost_training_minutes": 3.195,
+    "random_forest_model": "ml_models\\saved_models\\random_forest_validated.joblib",
+    "xgboost_model": "ml_models\\saved_models\\xgboost_validated.joblib"
+}

@@ -1,0 +1,79 @@
+Feature,Total_Rows,Missing_Values,Missing_Percentage,Distinct_Values,Minimum,Maximum,Is_Constant,Split
+Destination Port,2245305,0,0.0,51287,0.0,65535.0,False,Train
+Flow Duration,2245305,0,0.0,866629,-12.0,119999998.0,False,Train
+Total Fwd Packets,2245305,0,0.0,1265,1.0,218658.0,False,Train
+Total Backward Packets,2245305,0,0.0,1561,0.0,291260.0,False,Train
+Total Length of Fwd Packets,2245305,0,0.0,16308,0.0,12900000.0,False,Train
+Total Length of Bwd Packets,2245305,0,0.0,56353,0.0,641001413.0,False,Train
+Fwd Packet Length Max,2245305,0,0.0,5064,0.0,24820.0,False,Train
+Fwd Packet Length Min,2245305,0,0.0,367,0.0,2293.0,False,Train
+Fwd Packet Length Mean,2245305,0,0.0,86529,0.0,5940.857143,False,Train
+Fwd Packet Length Std,2245305,0,0.0,210550,0.0,7049.469004,False,Train
+Bwd Packet Length Max,2245305,0,0.0,4738,0.0,19530.0,False,Train
+Bwd Packet Length Min,2245305,0,0.0,559,0.0,2042.0,False,Train
+Bwd Packet Length Mean,2245305,0,0.0,125705,0.0,5800.5,False,Train
+Bwd Packet Length Std,2245305,0,0.0,205632,0.0,8194.660487,False,Train
+Flow Bytes/s,2245305,2138,0.095221,1291823,-261000000.0,2071000000.0,False,Train
+Flow Packets/s,2245305,2138,0.095221,1014084,-2000000.0,4000000.0,False,Train
+Flow IAT Mean,2245305,0,0.0,954266,-12.0,120000000.0,False,Train
+Flow IAT Std,2245305,0,0.0,854844,0.0,84800261.5664079,False,Train
+Flow IAT Max,2245305,0,0.0,490556,-12.0,120000000.0,False,Train
+Flow IAT Min,2245305,0,0.0,118825,-14.0,120000000.0,False,Train
+Fwd IAT Total,2245305,0,0.0,407056,0.0,120000000.0,False,Train
+Fwd IAT Mean,2245305,0,0.0,599311,0.0,120000000.0,False,Train
+Fwd IAT Std,2245305,0,0.0,564694,0.0,84602929.2769822,False,Train
+Fwd IAT Max,2245305,0,0.0,364839,0.0,120000000.0,False,Train
+Fwd IAT Min,2245305,0,0.0,94946,-12.0,120000000.0,False,Train
+Bwd IAT Total,2245305,0,0.0,346516,0.0,120000000.0,False,Train
+Bwd IAT Mean,2245305,0,0.0,545844,0.0,120000000.0,False,Train
+Bwd IAT Std,2245305,0,0.0,567607,0.0,84418013.7826341,False,Train
+Bwd IAT Max,2245305,0,0.0,311587,0.0,120000000.0,False,Train
+Bwd IAT Min,2245305,0,0.0,54977,0.0,120000000.0,False,Train
+Fwd PSH Flags,2245305,0,0.0,2,0.0,1.0,False,Train
+Bwd PSH Flags,2245305,0,0.0,1,0.0,0.0,True,Train
+Fwd URG Flags,2245305,0,0.0,2,0.0,1.0,False,Train
+Bwd URG Flags,2245305,0,0.0,1,0.0,0.0,True,Train
+Fwd Header Length,2245305,0,0.0,3343,-9663668122.0,4644908.0,False,Train
+Bwd Header Length,2245305,0,0.0,3530,-1073741320.0,5825212.0,False,Train
+Fwd Packets/s,2245305,0,0.0,999216,0.0,3000000.0,False,Train
+Bwd Packets/s,2245305,0,0.0,906499,0.0,2000000.0,False,Train
+Min Packet Length,2245305,0,0.0,213,0.0,1448.0,False,Train
+Max Packet Length,2245305,0,0.0,5555,0.0,24820.0,False,Train
+Packet Length Mean,2245305,0,0.0,183691,0.0,3337.142857,False,Train
+Packet Length Std,2245305,0,0.0,341540,0.0,4731.522394,False,Train
+Packet Length Variance,2245305,0,0.0,336086,0.0,22400000.0,False,Train
+FIN Flag Count,2245305,0,0.0,2,0.0,1.0,False,Train
+SYN Flag Count,2245305,0,0.0,2,0.0,1.0,False,Train
+RST Flag Count,2245305,0,0.0,2,0.0,1.0,False,Train
+PSH Flag Count,2245305,0,0.0,2,0.0,1.0,False,Train
+ACK Flag Count,2245305,0,0.0,2,0.0,1.0,False,Train
+URG Flag Count,2245305,0,0.0,2,0.0,1.0,False,Train
+CWE Flag Count,2245305,0,0.0,2,0.0,1.0,False,Train
+ECE Flag Count,2245305,0,0.0,2,0.0,1.0,False,Train
+Down/Up Ratio,2245305,0,0.0,28,0.0,124.0,False,Train
+Average Packet Size,2245305,0,0.0,180401,0.0,3893.333333,False,Train
+Avg Fwd Segment Size,2245305,0,0.0,86529,0.0,5940.857143,False,Train
+Avg Bwd Segment Size,2245305,0,0.0,125704,0.0,5800.5,False,Train
+Fwd Header Length.1,2245305,0,0.0,3343,-9663668122.0,4644908.0,False,Train
+Fwd Avg Bytes/Bulk,2245305,0,0.0,1,0.0,0.0,True,Train
+Fwd Avg Packets/Bulk,2245305,0,0.0,1,0.0,0.0,True,Train
+Fwd Avg Bulk Rate,2245305,0,0.0,1,0.0,0.0,True,Train
+Bwd Avg Bytes/Bulk,2245305,0,0.0,1,0.0,0.0,True,Train
+Bwd Avg Packets/Bulk,2245305,0,0.0,1,0.0,0.0,True,Train
+Bwd Avg Bulk Rate,2245305,0,0.0,1,0.0,0.0,True,Train
+Subflow Fwd Packets,2245305,0,0.0,1265,1.0,218658.0,False,Train
+Subflow Fwd Bytes,2245305,0,0.0,16308,0.0,12870338.0,False,Train
+Subflow Bwd Packets,2245305,0,0.0,1561,0.0,291260.0,False,Train
+Subflow Bwd Bytes,2245305,0,0.0,56380,0.0,641001413.0,False,Train
+Init_Win_bytes_forward,2245305,0,0.0,11291,-1.0,65535.0,False,Train
+Init_Win_bytes_backward,2245305,0,0.0,12104,-1.0,65535.0,False,Train
+act_data_pkt_fwd,2245305,0,0.0,972,0.0,207501.0,False,Train
+min_seg_size_forward,2245305,0,0.0,25,-536870661.0,138.0,False,Train
+Active Mean,2245305,0,0.0,266584,0.0,110000000.0,False,Train
+Active Std,2245305,0,0.0,162235,0.0,74200000.0,False,Train
+Active Max,2245305,0,0.0,248078,0.0,110000000.0,False,Train
+Active Min,2245305,0,0.0,149212,0.0,110000000.0,False,Train
+Idle Mean,2245305,0,0.0,178946,0.0,120000000.0,False,Train
+Idle Std,2245305,0,0.0,158111,0.0,76900000.0,False,Train
+Idle Max,2245305,0,0.0,122299,0.0,120000000.0,False,Train
+Idle Min,2245305,0,0.0,182617,0.0,120000000.0,False,Train

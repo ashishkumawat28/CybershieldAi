@@ -1,0 +1,14 @@
+{
+    "Model": "Random Forest",
+    "Training_Sample_Size": 431894,
+    "Maximum_Samples_Per_Class": 100000,
+    "Test_Size": 578418,
+    "Number_of_Features": 70,
+    "Number_of_Classes": 15,
+    "Accuracy": 0.994939645723335,
+    "Macro_F1": 0.7937420410368348,
+    "Weighted_F1": 0.9962623416017353,
+    "Random_State": 42,
+    "Estimators": 100,
+    "Maximum_Depth": 20
+}

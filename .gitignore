@@ -17,3 +17,52 @@ dist/
 
 # IDE
 .vscode/
+
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+venv/
+.venv/
+backend/venv/
+
+# Node
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Datasets - do not upload
+datasets/raw/
+datasets/processed/
+datasets/quarantine/
+*.parquet
+*.csv.tmp
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Python cache
+.pytest_cache/
+
+# Temporary training files
+*.tmp
+*.temp
+
+# Large local audit database
+reports/duplicate_audit.sqlite

@@ -1,0 +1,16 @@
+Label,Label_Encoded,Sample_Count
+BENIGN,0,100000
+Bot,1,1571
+DDoS,2,100000
+DoS GoldenEye,3,8236
+DoS Hulk,4,100000
+DoS Slowhttptest,5,4441
+DoS slowloris,6,4669
+FTP-Patator,7,6463
+Heartbleed,8,8
+Infiltration,9,29
+PortScan,10,100000
+SSH-Patator,11,4739
+Web Attack - Brute Force,12,1200
+Web Attack - Sql Injection,13,17
+Web Attack - XSS,14,521

@@ -1,0 +1,16 @@
+Attack_Type,Records
+BENIGN,100000
+DDoS,100000
+PortScan,100000
+DoS Hulk,100000
+DoS GoldenEye,8236
+FTP-Patator,6463
+SSH-Patator,4739
+DoS slowloris,4669
+DoS Slowhttptest,4441
+Bot,1571
+Web Attack - Brute Force,1200
+Web Attack - XSS,521
+Infiltration,29
+Web Attack - Sql Injection,17
+Heartbleed,8

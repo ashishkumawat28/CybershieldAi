@@ -1,0 +1,9 @@
+Metric,Value
+Original features,78
+Constant features removed,8
+Final model features,70
+Number of classes,15
+Training records,2245305
+Testing records,578418
+Training missing values filled,4276
+Testing missing values filled,750
